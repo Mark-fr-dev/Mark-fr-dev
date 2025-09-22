@@ -1,6 +1,6 @@
 # Mark de Villiers
 
-**Mechatronics & Embedded Systems Engineer · Taiwan-based (Hsinchu ↔︎ Taipei)**  
+**Mechatronics & Embedded Systems Engineer · Taiwan-based (Hsinchu)**  
 Building electromechanical systems end-to-end: **mechanical design → electronics → embedded firmware**, with **AWS/SAP** skills for data, control, and deployment.
 
 ---
@@ -15,8 +15,6 @@ Building electromechanical systems end-to-end: **mechanical design → electroni
 - Custom design + build for workshop use; joinery, load, and ergonomics tuned for daily use.  
 - Details: **[Project page](https://mark-fr-dev.github.io/Japanese-table/)**
 
-> Want more? See pinned repos for firmware, PCB, and tooling experiments.
-
 ---
 
 ## 💼 Experience
@@ -25,7 +23,7 @@ Building electromechanical systems end-to-end: **mechanical design → electroni
 - Designed/built an **automated piano-playing robot** (mechanics + electronics + firmware).  
 - Delivered rapid iterations from **laser-cut plywood prototype** to reliable actuation.
 
-**Manager/Administrator & English Teacher** — *Edison American School, Taiwan* · **2014–Present**  
+**Manager & English Teacher** — *Edison American School, Taiwan* · **2014–Present**  
 - Managed **6-person** team; schedules, curriculum, and quality control.  
 - Ran parallel classroom and operations responsibilities; introduced lightweight process tooling.
 
@@ -46,7 +44,7 @@ Building electromechanical systems end-to-end: **mechanical design → electroni
 
 - **Electronics:** KiCad, Altium; mixed-signal PCB, motor drivers, power, sensors  
 - **Mechanical:** Fusion 360, SolidWorks; DFM/DFA, laser-cut prototypes, mechanisms  
-- **Embedded:** C/C++ (Arduino, STM32), HALs, drivers, real-time patterns  
+- **Embedded:** C/C++ (Arduino), drivers  
 - **Software:** Python (tooling, data), C/C++, bash; Git/GitHub workflows  
 - **Cloud / Enterprise:** **AWS SysOps**, **SAP Basis (HANA/S/4)** basics for deployment, data & integration
 
